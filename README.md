@@ -1,61 +1,86 @@
 <div align="center">
 
-# Olá, eu sou o Vitor 👋
-### Desenvolvedor Front-end • HTML/CSS/JS • Design & UI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=VITOR%20MAXIMIANO&fontSize=42&fontColor=00ff88&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Design%20%26%20UI&descAlignY=55&descColor=888888&animation=fadeIn" width="100%"/>
+
+<br>
+
+<a href="https://github.com/vitormaximianoxs">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=600&lines=const+dev+%3D+%22Vitor+Maximiano%22%3B;stack%3A+HTML+%2F+CSS+%2F+JS;focus%3A+UI+%2F+Design;status%3A+building..." alt="Typing SVG" />
+</a>
 
 </div>
 
 <br>
 
-## Sobre mim
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-Construo aplicações web enxutas e funcionais, com foco em interfaces limpas e experiência do usuário. Trabalho com sistemas internos, portais e ferramentas sob medida — muitas vezes como aplicações **single-file**, otimizadas para simplicidade e fácil implantação.
+## `> sobre_mim.js`
 
-- 🔧 Desenvolvimento de portais, PDVs e ferramentas internas para pequenas empresas
-- 🎨 Foco em design de interface: layouts limpos, tipografia e identidade visual
-- 📱 Aplicações otimizadas para PWA e uso mobile
-- 🎓 Formação técnica pela ETEC Itaquera
+```javascript
+const vitor = {
+  papel: "Desenvolvedor Front-end",
+  foco: ["Interfaces limpas", "Sistemas internos", "Design & UI"],
+  formacao: "Técnico em Informática — ETEC Itaquera",
+  estilo: "Aplicações single-file, rápidas e sem dependências pesadas",
+  statusAtual: "Sempre construindo algo novo 🚀"
+};
+```
 
 <br>
 
-## Stack
+## `> stack.config`
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![Figma](https://img.shields.io/badge/Design%2FUI-000000?style=flat-square&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,figma,vscode,git,github&theme=dark" />
 
 </div>
 
 <br>
 
-## GitHub Stats
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `> estatísticas.exe`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vitormaximianoxs&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=333333" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vitormaximianoxs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormaximianoxs&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormaximianoxs&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000" height="165"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormaximianoxs&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="165"/>
 
 </div>
 
 <br>
 
-## Contato
+## `> atividade.log`
 
 <div align="center">
 
-<!-- Substitua os links abaixo pelos seus reais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=todoist&logoColor=white)](#)
+<!-- snake animation: gerada automaticamente pela GitHub Action (veja instruções abaixo) -->
+<img src="https://raw.githubusercontent.com/vitormaximianoxs/vitormaximianoxs/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 <br>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## `> contato.sh`
+
 <div align="center">
-<sub>Obrigado pela visita ⭐</sub>
+
+<!-- troque os # pelos seus links reais -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff88)](#)
+[![Portfólio](https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=todoist&logoColor=00ff88)](#)
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=vitormaximianoxs&label=Visualizações&color=00ff88&style=for-the-badge" />
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=100&section=footer" width="100%"/>
