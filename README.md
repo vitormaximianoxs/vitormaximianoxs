@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=VITOR%20MAXIMIANO&fontSize=42&fontColor=00ff88&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Design%20%26%20UI&descAlignY=55&descColor=888888&animation=fadeIn&v=2" width="100%"/>
+<img src="./assets/header.svg" width="100%"/>
 
 <br>
 
@@ -44,12 +44,12 @@ const vitor = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vitormaximianoxs&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&v=2" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=vitormaximianoxs&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&v=2" height="165"/>
+<img src="https://img.shields.io/github/followers/vitormaximianoxs?style=for-the-badge&color=0d1117&labelColor=0d1117&logoColor=00ff88" height="35"/>
+<img src="https://img.shields.io/github/stars/vitormaximianoxs?style=for-the-badge&color=0d1117&labelColor=0d1117&logoColor=00ff88" height="35"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormaximianoxs&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&v=2" height="165"/>
+<img src="https://ghchart.rshah.org/00ff88/vitormaximianoxs" width="100%"/>
 
 </div>
 
@@ -83,4 +83,4 @@ const vitor = {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=100&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
